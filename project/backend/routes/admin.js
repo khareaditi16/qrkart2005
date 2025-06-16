@@ -1,7 +1,7 @@
-import express from 'express';
-import Vendor from '../models/Vendor.js';
-import Alert from '../models/Alert.js';
-import { isAdmin } from '../middleware/isAdmin.js';
+const express = require('express');
+const Vendor = require('../models/Vendor');
+const Alert = require('../models/Alert');
+const { isAdmin } = require('../middleware/isAdmin');
 
 const router = express.Router();
 
@@ -76,4 +76,4 @@ router.delete('/vendor/:id', isAdmin, async (req, res) => {
   }
 });
 
-export default router;
+module.exports = router;
