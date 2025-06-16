@@ -1,0 +1,111 @@
+{
+  "nav": {
+    "home": "Home",
+    "dashboard": "Dashboard",
+    "login": "Login",
+    "register": "Register",
+    "logout": "Logout"
+  },
+  "hero": {
+    "title": "Revolutionize Your Vendor Business",
+    "subtitle": "Join QRKart - the modern platform that empowers vendors with QR code verification, UPI payments, and comprehensive business management tools.",
+    "getStarted": "Get Started",
+    "learnMore": "Learn More"
+  },
+  "features": {
+    "title": "Why Choose QRKart?",
+    "qrVerification": {
+      "title": "QR Code Verification",
+      "description": "Generate and manage QR codes for instant customer verification and seamless transactions."
+    },
+    "upiPayments": {
+      "title": "UPI Payment Integration",
+      "description": "Accept payments directly through UPI with secure and instant transaction processing."
+    },
+    "cartRenovation": {
+      "title": "Cart Renovation Tracking",
+      "description": "Track your cart renovation progress with visual updates and real-time status monitoring."
+    },
+    "loanManagement": {
+      "title": "Loan Management",
+      "description": "Apply for business loans and track repayment schedules with our integrated loan system."
+    },
+    "geolocation": {
+      "title": "Location-Based Discovery",
+      "description": "Help customers find you easily with GPS-based location services and mapping."
+    },
+    "analytics": {
+      "title": "Business Analytics",
+      "description": "Get insights into your business performance with detailed analytics and reporting."
+    }
+  },
+  "howItWorks": {
+    "title": "How It Works",
+    "step1": {
+      "title": "Register Your Business",
+      "description": "Sign up and provide your business details to get started with QRKart."
+    },
+    "step2": {
+      "title": "Get Verified",
+      "description": "Complete the verification process to unlock all platform features."
+    },
+    "step3": {
+      "title": "Generate QR Code",
+      "description": "Create your unique QR code for customer verification and payments."
+    },
+    "step4": {
+      "title": "Start Earning",
+      "description": "Begin accepting payments and managing your business efficiently."
+    }
+  },
+  "auth": {
+    "loginTitle": "Welcome Back",
+    "loginSubtitle": "Sign in to your QRKart account",
+    "registerTitle": "Join QRKart",
+    "registerSubtitle": "Create your vendor account today",
+    "email": "Email Address",
+    "password": "Password",
+    "name": "Full Name",
+    "businessName": "Business Name",
+    "phone": "Phone Number",
+    "address": "Business Address",
+    "loginButton": "Sign In",
+    "registerButton": "Create Account",
+    "forgotPassword": "Forgot Password?",
+    "noAccount": "Don't have an account?",
+    "hasAccount": "Already have an account?",
+    "signUp": "Sign up",
+    "signIn": "Sign in"
+  },
+  "dashboard": {
+    "welcome": "Welcome back",
+    "overview": "Dashboard Overview",
+    "totalOrders": "Total Orders",
+    "revenue": "Monthly Revenue",
+    "rating": "Customer Rating",
+    "pendingTasks": "Pending Tasks",
+    "quickActions": "Quick Actions",
+    "generateQR": "Generate QR Code",
+    "viewAnalytics": "View Analytics",
+    "manageProfile": "Manage Profile",
+    "requestRenovation": "Request Renovation",
+    "applyLoan": "Apply for Loan",
+    "viewTransactions": "View Transactions"
+  },
+  "footer": {
+    "about": "About",
+    "contact": "Contact",
+    "privacy": "Privacy Policy",
+    "terms": "Terms of Service",
+    "rights": "All rights reserved."
+  },
+  "common": {
+    "loading": "Loading...",
+    "error": "Something went wrong",
+    "success": "Success!",
+    "cancel": "Cancel",
+    "save": "Save",
+    "continue": "Continue",
+    "back": "Back"
+  }
+}
